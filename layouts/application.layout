@@ -307,7 +307,7 @@
                         <p class="footer_text" style="width:300px;font-size:17px">
                         18 Signature Properties</br>
                    c/o Bentall Kennedy</br>
-                        {{address1}}</br>
+                        // {{address1}}</br>
                         {{city}}, {{province_state}}
                     
                         </p>
